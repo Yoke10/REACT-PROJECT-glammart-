@@ -1,0 +1,11 @@
+.product-card:hover {
+  /* Add styles for the hover effect */
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.product-page-content-container{
+  width: 78vw;
+  height: 78vh;
+  padding-left: 150px;
+}

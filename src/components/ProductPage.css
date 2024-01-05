@@ -1,0 +1,23 @@
+/* ProductPage.css */
+
+/* Container styling */
+.product-container {
+    max-width: 1300px;
+    margin: 0 auto;
+  }
+  
+  /* Product list styling */
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    width:auto;
+    justify-content: space-between;
+  }
+  
+  /* Product card styling */
+  .product-card {
+    width: calc(33.33% - 50px); /* Adjust the width based on your layout */
+    margin-bottom: 20px;
+    box-sizing: border-box;
+  }
+  

@@ -1,0 +1,75 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: url('https://www.itl.cat/pngfile/big/193-1931048_fashion-wear-background-fashion-powerpoint-backgrounds.jpg');
+}
+
+.container {
+  width: 350px;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 10px; /* Increased border-radius for a rounded appearance */
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Increased box-shadow */
+  text-align: center;
+}
+
+.kpy {
+  text-align: center;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 24px;
+  
+}
+
+.tagline {
+  font-style: italic;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adjusted box-shadow */
+}
+
+button:hover {
+  background-color: #4546a0;
+}
+
+span {
+  color: blue;
+  cursor: pointer;
+}
+
+span:hover {
+  text-decoration: underline;
+}
+
+/* Specific styling for "brush up ur shine" */
+.kpy-special {
+  font-family: 'Merienda', cursive;
+  font-weight: bold;
+  font-size: 24px;
+}

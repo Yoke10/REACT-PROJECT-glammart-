@@ -1,0 +1,45 @@
+{
+    "products":[
+        {
+          "id": 2,
+          "productName": "Lotions and Creams",
+          "imageUrl": "https://i.pinimg.com/236x/0b/84/6d/0b846d9c456a1ea0be2038226b099a5b.jpg"
+        },
+        {
+          "id": 3,
+          "productName": "Serums",
+          "imageUrl": "https://i.pinimg.com/564x/ec/b4/da/ecb4daf0a54e99c8805e5b2958a486a2.jpg"
+        },
+        {
+          "id": 4,
+          "productName": "HerbalHair oils",
+          "imageUrl": "https://i.pinimg.com/564x/ca/af/49/caaf493dcbc10a4f7c3ee21f0508de28.jpg"
+        },
+        {
+          "id": 1,
+          "productName": "Lipbalm & lipsticks",
+          "imageUrl": "https://i.pinimg.com/236x/2d/cb/75/2dcb75567f0ec1f7b8330bd42501a636.jpg"
+        },
+        {
+          "id": 5,
+          "productName": "Earrings",
+          "imageUrl": "https://www.hunarcourses.com/blog/wp-content/uploads/2020/04/Gif-3-6.gif"
+        },
+        {
+          "id": 6,
+          "productName": "Necklace",
+          "imageUrl": "https://media.tenor.com/uzYX4LreYFAAAAAC/jewelry-necklace.gif"
+        },
+        {
+          "id": 7,
+          "productName": "Bags & Clutches",
+          "imageUrl": "https://i.pinimg.com/originals/b4/94/d3/b494d35ab510d34acd06e6685f788018.gif"
+        },
+        {
+          "id": 8,
+          "productName": "Sunglasses",
+          "imageUrl": "https://www.blenderseyewear.com/cdn/shop/files/BLENDERS_2023_BlendLab_Stylized-GIF_No-Messaging_900x900_79645fbf-eef0-44ba-bad2-b2a8b4f2efe1_650x650_crop_center.gif?v=1680114052"
+        }
+      ]
+      
+}

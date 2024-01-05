@@ -1,0 +1,190 @@
+{
+  "products":[
+      {
+        "id": 2,
+        "productName": "Lotions and Creams",
+        "imageUrl": "https://i.pinimg.com/236x/0b/84/6d/0b846d9c456a1ea0be2038226b099a5b.jpg"
+      },
+      {
+        "id": 3,
+        "productName": "Serums",
+        "imageUrl": "https://i.pinimg.com/564x/ec/b4/da/ecb4daf0a54e99c8805e5b2958a486a2.jpg"
+      },
+      {
+        "id": 4,
+        "productName": "HerbalHair oils",
+        "imageUrl": "https://i.pinimg.com/564x/ca/af/49/caaf493dcbc10a4f7c3ee21f0508de28.jpg"
+      },
+      {
+        "id": 1,
+        "productName": "Lipbalm & lipsticks",
+        "imageUrl": "https://i.pinimg.com/236x/2d/cb/75/2dcb75567f0ec1f7b8330bd42501a636.jpg"
+      },
+      {
+        "id": 5,
+        "productName": "Earrings",
+        "imageUrl": "https://www.hunarcourses.com/blog/wp-content/uploads/2020/04/Gif-3-6.gif"
+      },
+      {
+        "id": 6,
+        "productName": "Necklace",
+        "imageUrl": "https://media.tenor.com/uzYX4LreYFAAAAAC/jewelry-necklace.gif"
+      },
+      {
+        "id": 7,
+        "productName": "Bags & Clutches",
+        "imageUrl": "https://i.pinimg.com/originals/b4/94/d3/b494d35ab510d34acd06e6685f788018.gif"
+      },
+      {
+        "id": 8,
+        "productName": "Sunglasses",
+        "imageUrl": "https://www.blenderseyewear.com/cdn/shop/files/BLENDERS_2023_BlendLab_Stylized-GIF_No-Messaging_900x900_79645fbf-eef0-44ba-bad2-b2a8b4f2efe1_650x650_crop_center.gif?v=1680114052"
+      }
+    ],
+
+    "productlist":[
+      {
+        
+        "id": 1,
+        "name": "Body Lotion",
+        "image": "https://www.joelenton.com/wp-content/uploads/2020/05/Molton-Brown-Hand-Cream-advertising-image-with-splash.jpg.webp"
+        
+      },
+      {
+        "id": 2,
+        "name": "Moisturizer",
+        "image": "https://www.dotandkey.com/cdn/shop/files/strawsuncopy_b5fb5d4b-54e1-437e-93aa-7b6266fd886c_400x.jpg?v=1695020181"
+        
+      },
+      {
+        "id": 3,
+        "name": "Sunscreen",
+        "image": "https://img.freepik.com/premium-vector/protection-cosmetic-products-design-sunscreen-sunbath-cosmetic-products-design_67590-895.jpg?size=626&ext=jpg"
+        
+      },
+      {
+        "id": 4,
+        "name": "Love serum",
+        "image": "https://lovehair.com/cdn/shop/products/HairOil-02-LoveHair.jpg?v=1654832454&width=1445"
+        
+      },
+      {
+        "id": 5,
+        "name": "HaLi serum",
+        "image": "https://m.media-amazon.com/images/I/41TMlZRd4gS._AC_UF350,350_QL80_.jpg"
+        
+      },
+      {
+        "id": 6,
+        "name": "Argan oil",
+        "image": "https://lifesabundance.com/Assets/img/lifes-abundance-serum-02.jpg"
+        
+      },
+      {
+        "id": 7,
+        "name": "Coco's oil",
+        "image": "https://cdn.dribbble.com/users/9234738/screenshots/17629041/media/61956905280976eaf8da5cf62c15fef7.jpg?resize=400x300&vertical=center"
+        
+      },
+      {
+        "id": 8,
+        "name": "Olive oil",
+        "image": "https://wp.disruptiveadvertising.com/wp-content/uploads/2018/06/il_570xN.1354889966_2i0r-450x270.jpg"
+        
+      },
+      {
+        "id": 9,
+        "name": "DACE face oil",
+        "image": "https://s3.eu-west-2.amazonaws.com/img.creativepool.com/files/candidate/portfolio/full/1485045.jpg"
+        
+      },
+      {
+        "id": 10,
+        "name": "Cherry Lip balm",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NAB_8qpv8bO3kEDrrlwgcWkbGn8b9JxtSg&usqp=CAU"
+        
+      },
+      {
+        "id": 11,
+        "name": "Rose Day's Lipstick",
+        "image": "https://www.shutterstock.com/image-photo/herbal-luxury-lipstick-product-photography-260nw-2204967163.jpg"
+        
+      },
+      {
+        "id": 12,
+        "name": "Mars Lippills",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AH64Ba4bB_7kK8Uj_9rEN2rpne9yJ3YxEg&usqp=CAU"
+        
+      },
+      {
+        "id": 13,
+        "name": "Polymer Clay earrings",
+        "image": "https://i.pinimg.com/736x/70/b7/7e/70b77ecc19e0a0da5e69c88317bf961e.jpg"
+        
+      },
+      {
+        "id": 14,
+        "name": "Terracotta neckpiece",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/342025147/GR/FI/ON/152039596/terracotta-jewellery-500x500.jpeg"
+        
+      },
+      {
+        "id": 15,
+        "name": "Ariva Rings",
+        "image": "https://fq.lnwfile.com/_/fq/_raw/rv/a5/dz.jpg"
+        
+      },
+      {
+        "id": 16,
+        "name": "Our Moment Perfume",
+        "image": "https://resize.indiatvnews.com/en/resize/oldbucket/1200_-/entertainmenthollywood/OurMomentfragrance.jpg"
+        
+      },
+      {
+        "id": 17,
+        "name": "Royal Mirage",
+        "image": "https://pictures-uganda.jijistatic.com/4444853_gridplus-1604477482339_620x570.webp"
+        
+      },
+      {
+        "id": 18,
+        "name": "Bella Vita",
+        "image": "https://www.jiomart.com/images/product/original/rve51avk1s/bella-vita-organic-unisex-luxury-perfume-gift-set-4x20-ml-skai-fresh-whiteoud-patchouli-for-men-women-pack-of-4-product-images-orve51avk1s-p594582613-1-202210181334.jpg?im=Resize=(420,420)"
+      
+      },
+      {
+        "id": 19,
+        "name": "Wall's Heels",
+        "image": "https://i.pinimg.com/736x/7d/13/d8/7d13d8c5a0d6c720561cba5744e8eb6d.jpg"
+        
+      },
+      {
+        "id": 20,
+        "name": "Lavis' Shoes",
+        "image": "https://thumbs.dreamstime.com/b/latest-ladies-hand-bags-matching-sandals-designs-shoe-product-photography-fashion-still-life-shoes-clutches-handbags-245801834.jpg"
+        
+      },
+      {
+        "id": 21,
+        "name": "Brocs sandals",
+        "image": "https://media3.newlookassets.com/i/newlook/854752276M1/womens/footwear/shoes/occasion-shoes/little-mistress-bright-pink-diamante-strappy-block-heel-sandals.jpg?strip=true&qlt=50&w=720"
+      },
+      {
+        "id": 22,
+        "name": "Livas",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxd32BXHKg4ehe0sjKUZisJGCPaAZKoOGsFQ&usqp=CAU"
+      },
+      {
+        "id": 23,
+        "name": "xacer",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/341562920/GP/KO/CK/127920153/handbags-photography-service.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Louis Vuitton",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/8/335431784/SA/KF/UB/155351929/ecommerce-hand-bag-photo-shoot-service-500x500.jpg"
+      }
+    ]
+    
+    
+}

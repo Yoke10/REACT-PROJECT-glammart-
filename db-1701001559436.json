@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "Lotions and Creams",
+      "imageUrl": "https://i.pinimg.com/236x/0b/84/6d/0b846d9c456a1ea0be2038226b099a5b.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Serums",
+      "imageUrl": "https://i.pinimg.com/564x/ec/b4/da/ecb4daf0a54e99c8805e5b2958a486a2.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "HerbalHair oils",
+      "imageUrl": "https://i.pinimg.com/564x/ca/af/49/caaf493dcbc10a4f7c3ee21f0508de28.jpg"
+    },
+    {
+      "id": 1,
+      "productName": "Lipbalm & lipsticks",
+      "imageUrl": "https://i.pinimg.com/236x/2d/cb/75/2dcb75567f0ec1f7b8330bd42501a636.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Earrings",
+      "imageUrl": "https://www.hunarcourses.com/blog/wp-content/uploads/2020/04/Gif-3-6.gif"
+    },
+    {
+      "id": 6,
+      "productName": "Necklace",
+      "imageUrl": "https://media.tenor.com/uzYX4LreYFAAAAAC/jewelry-necklace.gif"
+    },
+    {
+      "id": 7,
+      "productName": "Bags & Clutches",
+      "imageUrl": "https://i.pinimg.com/originals/b4/94/d3/b494d35ab510d34acd06e6685f788018.gif"
+    },
+    {
+      "id": 8,
+      "productName": "Sunglasses",
+      "imageUrl": "https://www.blenderseyewear.com/cdn/shop/files/BLENDERS_2023_BlendLab_Stylized-GIF_No-Messaging_900x900_79645fbf-eef0-44ba-bad2-b2a8b4f2efe1_650x650_crop_center.gif?v=1680114052"
+    }
+  ],
+  "productlist": [
+    {
+      "id": 1,
+      "name": "Lock Designed Necklace",
+      "image": "j1",
+      "newprice": 10000,
+      "oldprice": 12250.5
+    },
+    {
+      "id": 2,
+      "name": "Gold Platted Star Necklace",
+      "image": "j2",
+      "newprice": 7500,
+      "oldprice": 8900.5
+    },
+    {
+      "id": 3,
+      "name": "Dior Handbag (Black)",
+      "image": "/img/",
+      "newprice": 680000,
+      "oldprice": 709999
+    },
+    {
+      "id": 4,
+      "name": "Tinkle Earing",
+      "image": "j4",
+      "newprice": 5990,
+      "oldprice": 7990
+    },
+    {
+      "id": 5,
+      "name": "Sandals for Women(Black)",
+      "image": "f1",
+      "newprice": 3000,
+      "oldprice": 4899
+    },
+    {
+      "id": 6,
+      "name": "Louis Vuitton HandBag (Brown)",
+      "image": "b1",
+      "newprice": 600000,
+      "oldprice": 659000
+    },
+    {
+      "id": 7,
+      "name": "Women Sneakers(Black)",
+      "image": "f3",
+      "newprice": 4900,
+      "oldprice": 5899
+    },
+    {
+      "id": 8,
+      "name": "Indie-Styled Loafers for Women",
+      "image": "f4",
+      "newprice": 6780,
+      "oldprice": 8899
+    },
+    {
+      "id": 9,
+      "name": "Black Analog Watch for Women",
+      "image": "w1",
+      "newprice": 6080,
+      "oldprice": 7599
+    },
+    {
+      "id": 10,
+      "name": "Black Crystal Bracelet Watch(Women)",
+      "image": "w2",
+      "newprice": 5080,
+      "oldprice": 6799
+    },
+    {
+      "id": 11,
+      "name": "Gold Striped Watch for Women",
+      "image": "w3",
+      "newprice": 7080,
+      "oldprice": 8999
+    },
+    {
+      "id": 12,
+      "name": "Rose Watch Bracelet for Women",
+      "image": "w4",
+      "newprice": 6809,
+      "oldprice": 7999
+    },
+    {
+      "id": 13,
+      "name": "Jersey Girl Lipstick (Pink)",
+      "image": "l1",
+      "newprice": 6809,
+      "oldprice": 7999
+    },
+    {
+      "id": 14,
+      "name": "Gossip Girl Lipstick (Paleviolet)",
+      "image": "l2",
+      "newprice": 6809,
+      "oldprice": 7999
+    },
+    {
+      "id": 15,
+      "name": "Summer Shade Diamond Earring",
+      "image": "j3",
+      "newprice": 5000,
+      "oldprice": 7500.5
+    },
+    {
+      "id": 16,
+      "name": "Sandals for Women(Black)",
+      "image": "f2",
+      "newprice": 3000,
+      "oldprice": 4899
+    },
+    {
+      "id": 17,
+      "name": "10 million perfume",
+      "image": "p1",
+      "newprice": 13000,
+      "oldprice": 14999
+    },
+    {
+      "id": 18,
+      "name": "Louis Vuitton Rose des vents",
+      "image": "p2",
+      "newprice": 11900,
+      "oldprice": 139999
+    },
+    {
+      "id": 16,
+      "name": "Sandals for Women(Black)",
+      "image": "f2",
+      "newprice": 3000,
+      "oldprice": 4899
+    },
+    {
+      "id": 17,
+      "name": "10 million perfume",
+      "image": "p1",
+      "newprice": 13000,
+      "oldprice": 14999
+    },
+    {
+      "id": 18,
+      "name": "Louis Vuitton Rose des vents",
+      "image": "p2",
+      "newprice": 11900,
+      "oldprice": 139999
+    }
+  ]
+}

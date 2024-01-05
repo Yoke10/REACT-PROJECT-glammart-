@@ -1,0 +1,20 @@
+/* Add your own styles or adjust as needed */
+.MyImageCarousel {
+    width: 100%; /* Adjust the width as needed */
+    overflow: hidden;
+  }
+  
+  .HoverCarousel {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .HoverCarousel img {
+    width: 100%; /* Ensure images fill the container */
+    height: auto;
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+    cursor: pointer;
+  }
+  
+  /* Optional: Add additional styling for hover effects or other features */
+  
